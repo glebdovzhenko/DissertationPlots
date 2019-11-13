@@ -1,0 +1,12 @@
+
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/DissertationPlots.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/
+data/
+requirements.txt
+utilities.py
